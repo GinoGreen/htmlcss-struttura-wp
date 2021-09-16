@@ -10,3 +10,46 @@
    clear: both;
 }
 
+.container {
+   width: 80%;
+   margin: 10px auto;
+}
+
+
+/* HEADER */
+header .top-header, header .jamboard {
+   margin-bottom: 20px;
+}
+
+header .top-header {
+   height: 100px;
+   background-color: #E579E6;
+}
+
+header .jamboard {
+   min-height: 400px;
+   background-color: #E1D67A;
+}
+
+/* MAIN */
+main {
+   min-height: 600px;
+   background-color: #0186FF;
+}
+
+.main-top, .main-left, .main-center, .main-right {
+   background-color: #ABCFE7;
+}
+
+.main-left, .main-center, .main-right {
+   float: left;
+}
+
+.main-top {
+   height: 70px;
+}
+
+.main-left, .main-right {
+   min-height: 400px;
+   width: 20%;
+}
