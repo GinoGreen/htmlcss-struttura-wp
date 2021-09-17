@@ -17,7 +17,7 @@
 
 
 /* HEADER */
-header .top-header, header .jamboard {
+header .top-header, header .jambotron {
    margin-bottom: 20px;
 }
 
@@ -26,7 +26,7 @@ header .top-header {
    background-color: #E579E6;
 }
 
-header .jamboard {
+header .jambotron {
    min-height: 400px; /* da rimuovere */
    background-color: #E1D67A;
 }
